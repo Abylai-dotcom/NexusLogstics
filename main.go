@@ -7,6 +7,7 @@ import (
 	"time"
 )
 
+
 var machine = []string{"Drone", "Wheeled", "HeavyLifter"}
 
 type Product struct {
